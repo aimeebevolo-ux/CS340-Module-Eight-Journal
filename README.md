@@ -1,0 +1,14 @@
+
+
+Writing Maintainable, Readable, and Adaptable Programs
+
+One thing I learned in this course is how important it is to keep code organized and make it easier to work with later. In Project One, I created a CRUD Python module to work with a MongoDB database, and then I used that module again in Project Two for my Grazioso Salvare dashboard. Having the database code separated from the dashboard made things easier because I did not have to put everything into one file. It also helped when I needed to troubleshoot problems because I could focus on the part that was not working instead of going through all of my code. I can see myself using this same approach in future projects whenever I need a program to connect to a database. I would just need to make changes based on what the project requires.
+
+Approaching Problems as a Computer Scientist
+
+When I started working on the Grazioso Salvare dashboard, I had to figure out how all the different pieces would work together. I needed to connect to MongoDB, create filters for the different types of rescue dogs, and make sure the table, charts, and map displayed the correct information. I had a few problems come up while working on the project, so I had to go back and check my code, make sure my database connection was working, and try each filter to see if everything was updating like it should. This project was a little different from my other assignments because I had to get several different parts working together instead of just focusing on one thing. It helped me understand how everything connects when you're building an actual application for someone to use. For future projects, I would try to take things one step at a time instead of trying to do everything at once. I found that testing things along the way makes it easier to figure out what is going wrong and fix it before moving on to the next part. I think this would make future projects easier to manage and save me some time in the long run.
+
+The Importance of Computer Science
+
+This project helped me understand how computer science can be used to solve real problems and make someone’s job easier. Grazioso Salvare needed a way to find dogs that might be good candidates for different types of rescue training. Instead of having to search through a large amount of animal data manually, employees can use the dashboard to filter the records and view information in a table, charts, and a map. This makes it easier to find the information they need and narrow down potential candidates. Before this project, I mostly thought of programming as writing code and getting everything to work the way it should. Working on this dashboard helped me realize that it is also about making things easier for the people using it. Going forward, I want to keep improving my skills and learn how to create programs that actually help people and make their jobs a little easier.
+
